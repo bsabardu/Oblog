@@ -1,0 +1,26 @@
+{
+  "name": "S03E08-OBlog-bsabardu",
+  "version": "1.0.0",
+  "description": "![Aperçu](integration/images/apercu.png \"Aperçu\")",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsabardu/Oblog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsabardu/Oblog/issues"
+  },
+  "homepage": "https://github.com/bsabardu/Oblog#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
